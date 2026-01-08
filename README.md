@@ -32,6 +32,7 @@ I enjoy building systems that handle real users, real data, and real performance
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=postman,vscode,git" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 ---
